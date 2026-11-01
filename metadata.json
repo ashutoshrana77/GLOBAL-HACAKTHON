@@ -1,0 +1,6 @@
+{
+  "name": "FreshCheck AI",
+  "description": "Real-Time LLM Answer Freshness & Verification Platform. Detect stale, outdated, conflicting, and inaccurate information in AI-generated responses with live source grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
